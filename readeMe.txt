@@ -1,0 +1,8 @@
+Para verificar se duas strings necessitam apenas de uma ação (substituição, inserção ou exclusão),
+para serem identicas, basta seguir os seguintes passos:
+
+- Verificar se as duas strings possuem o mesmo tamanho ou a diferença de tamanho 
+entre as duas cadeias seja de no máximo 1.
+- Verificar similaridade de strings de mesmo tamanho (substituição).
+- Verificar similaridade de strings de tamanhos diferentes, com no máximo 1 caracter de diferença (inserção,
+ou exclusão).

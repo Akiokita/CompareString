@@ -1,0 +1,11 @@
+C:\Akio\Computação\C#\CompareString\bin\Debug\netcoreapp2.2\CompareString.deps.json
+C:\Akio\Computação\C#\CompareString\bin\Debug\netcoreapp2.2\CompareString.runtimeconfig.json
+C:\Akio\Computação\C#\CompareString\bin\Debug\netcoreapp2.2\CompareString.runtimeconfig.dev.json
+c:\Akio\Computação\C#\CompareString\bin\Debug\netcoreapp2.2\CompareString.dll
+c:\Akio\Computação\C#\CompareString\bin\Debug\netcoreapp2.2\CompareString.pdb
+c:\Akio\Computação\C#\CompareString\obj\Debug\netcoreapp2.2\CompareString.csprojAssemblyReference.cache
+c:\Akio\Computação\C#\CompareString\obj\Debug\netcoreapp2.2\CompareString.csproj.CoreCompileInputs.cache
+c:\Akio\Computação\C#\CompareString\obj\Debug\netcoreapp2.2\CompareString.AssemblyInfoInputs.cache
+c:\Akio\Computação\C#\CompareString\obj\Debug\netcoreapp2.2\CompareString.AssemblyInfo.cs
+c:\Akio\Computação\C#\CompareString\obj\Debug\netcoreapp2.2\CompareString.dll
+c:\Akio\Computação\C#\CompareString\obj\Debug\netcoreapp2.2\CompareString.pdb
